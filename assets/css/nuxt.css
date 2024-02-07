@@ -1,0 +1,10 @@
+/* Global styles for Nuxt related components */
+
+/* NuxtLink */
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: unset;
+}

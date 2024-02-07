@@ -1,0 +1,5 @@
+@use 'vuetify/settings' with (
+  // Buttons
+  $button-plain-opacity: unset,
+  $button-text-transform: unset
+);
